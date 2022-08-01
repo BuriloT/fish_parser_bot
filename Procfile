@@ -1,2 +1,1 @@
-web: cd ./src/
-worker: python main.py
+worker: python src/main.py
